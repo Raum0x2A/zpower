@@ -46,4 +46,6 @@ $> git clone https://gitlab.com/bradley.richins/zpower.git
 $> cd zpower
 $> ./install.sh
 ```
+or download and run the self extracting archive
 
+- [Self Extracting Archive](https://gitlab.com/bradley.richins/zpower/-/raw/master/zp-install-v2.run?inline=false)
