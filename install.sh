@@ -21,7 +21,7 @@ working() {
 	echo "$statustxt [Done]"
 }
 
-userhome=$HOME
+usrhome=$HOME
 SHELL_TEST=$(basename "$SHELL")
 
 funcheck=(dialog --title "ZPower Installer v2" --radiolist "Select the groups they belong:" 0 0 0)
