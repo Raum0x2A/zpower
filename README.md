@@ -47,5 +47,13 @@ $> cd zpower
 $> ./install.sh
 ```
 or download and run the self extracting archive
+```
+$> ./zp-install.run
+```
 
 - [Self Extracting Archive](https://gitlab.com/bradley.richins/zpower/-/raw/master/zp-install.run?inline=false)
+_NOTE:_ When downloading this from gitlab the file name will most likely changed from `zp-install.run` to `zp-install.txt`. As long as this file has exec prermissions it will work
+```
+$> chmod 755 zp-install.txt
+$> ./zp-install.txt
+```
