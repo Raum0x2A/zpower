@@ -53,7 +53,7 @@ $> chmod 755 zp-install.run
 $> ./zp-install.run
 ```
 
-- [Self Extracting Archive](https://gitlab.com/bradley.richins/zpower/-/raw/master/zp-install.run?inline=false)
+- [Self Extracting Archive](/bradley.richins/zpower/-/raw/master/zp-install.run?inline=false)
 
 _NOTE:_ When downloading this from gitlab the file name will most likely changed from `zp-install.run` to `zp-install.txt`. As long as this file has exec prermissions it will work
 ```
