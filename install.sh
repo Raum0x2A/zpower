@@ -1,4 +1,8 @@
 #!/bin/bash
+if ! hash dialog 2>/dev/null; then
+    echo "dialog is not installed"
+    exit
+fi
 
 working() {
 	tskpid=$!
