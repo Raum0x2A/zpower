@@ -69,7 +69,7 @@ if [ $zse -eq 1 ]; then
 fi
 
 ## Oh-My-ZSH (framework)
-git clone --quiet --depth=1 https://github.com/robbyrussell/oh-my-zsh.git $usrhome/.oh-my-zsh & working "Cloning Oh-My-ZSH"
+git clone --quiet --depth=1 https://github.com/ohmyzsh/ohmyzsh.git $usrhome/.oh-my-zsh & working "Cloning Oh-My-ZSH"
 ## ZSH Auto-Suggestions (plugin)
 git clone --quiet https://github.com/zsh-users/zsh-autosuggestions.git $usrhome/.config/zsh/plugins/zsh-autosuggestions & working "Cloning zsh-autosuggestions"
 ## ZSH Syntax-highlighting (plugin)
